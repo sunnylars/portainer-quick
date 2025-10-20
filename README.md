@@ -60,7 +60,7 @@ portainer-quick
 
 ### First Run
 
-On the first run, if no configuration file exists, a default configuration template will be created at `~/.config/portainer-quick/config.json`. You'll need to edit this file to add your Portainer instance details.
+On the first run, if no configuration file exists, a default configuration template will be created at `~/.config/portainer-quick/config.json`. You'll need to edit this file with the proper multi-instance format and add your Portainer instance details.
 
 ### Configuration
 
